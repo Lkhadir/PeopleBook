@@ -1,6 +1,6 @@
 # Social-Network
 
-this is an small social media application which is made in an academic project with the coloboration of 4 friends :
+this is an small social media application which is made in an academic project by the collaboration of 4 friends :
 - LKHADIR mostapha 
 - CHANA Salma
 - ECHHAD Mehdi 
